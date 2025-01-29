@@ -6,3 +6,6 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 mysql
 redis
+rabbitmq:management
+elasticsearch:7.9.2
+zendesk/maxwell
